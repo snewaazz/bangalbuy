@@ -74,7 +74,6 @@ nav.scrolled {
 .logo-svg {
 	width: 40px;
 	height: 40px;
-	margin-right: 10px;
 }
 
 .logo-text {
@@ -91,6 +90,8 @@ nav.scrolled {
 	gap: 30px;
 	list-style: none;
 	align-items: center;
+    height: 42px;
+
 }
 
 .nav-links a {
@@ -1857,3 +1858,4 @@ footer {
 	}
 
 }
+
